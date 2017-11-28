@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/src/filemanager/InputManager.java</file>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/src/dataprocessor/DataProcessor.java</file>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/src/dataprocessor/PostingsList.java</file>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/src/indexinverter/IndexInverter.java</file>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/src/queryprocessor/GetPostings.java</file>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/src/queryprocessor/DocumentAtATime.java</file>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/src/queryprocessor/TermAtATime.java</file>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/build.xml</file>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/src/dataprocessor/Postings.java</file>
+            <file>file:/Users/pavanjoshi/Documents/Masters/Information%20Retrieval/Assignments/Assignment%202%20-%20Oct%2017th%202016/Code/IndexInverter/src/filemanager/OutputManager.java</file>
+        </group>
+    </open-files>
+</project-private>
